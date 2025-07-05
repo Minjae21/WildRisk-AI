@@ -1,5 +1,0 @@
-Progress Update - Minjae Jang
-
-- I brainstormed the frontend design for creating and managing AI agents: this includes outlining the UI structure, user interactions, and key components needed for agent customization.
-- Tech: planning to use basic HTML, CSS, and vanilla JavaScript to build a lightweight and flexible interface - following basic structure of other AI agents (ChatGPT, DeepSeek, etc)
-- Conducted initial research on RAG to see how it could enhance the agents' capabilities.
