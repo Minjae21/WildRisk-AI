@@ -1,14 +1,17 @@
 # WildRisk-AI
 WildFire AI is a next-generation AI assistant that provides hyper-local wildfire risk predictions, explanations of contributing factors, and interactive visualizations of wildfire risk. As wildfires grow more frequent and intense — particularly in areas like Los Angeles — WildFire AI empowers homeowners, community members, and officials to make informed, proactive decisions.
 
+![wildrisk-ai](https://github.com/user-attachments/assets/0dc961a2-d730-4f3c-8e6e-46e3dcb619a4)
+
 ## Features:
 1. Get a 1–10 wildfire risk score for your location based on historical burn data, live weather, and geographical features.
 2. Plain-language descriptions of your top risk factors (e.g., “Your area has dry brush within 1 mile and a 35% increase in fire-prone winds this month”).
 3. Visualize risk levels of nearby towns within a 10-mile radius to stay informed and advocate for safety measures like brush-clearing.
 4. Ask questions about local risks, safety strategies, and more — and get AI-powered, data-informed answers in real time.
 
-## Set up Instructions:
+![wildfire-map](https://github.com/user-attachments/assets/a416e6d0-6e88-4728-9064-1fe1b6fe0294)
 
+## Set up Instructions:
 ### Backend Setup
 
 1. Navigate to Backend Directory
