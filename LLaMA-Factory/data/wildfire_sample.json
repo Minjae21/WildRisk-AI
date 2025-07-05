@@ -1,0 +1,38 @@
+[
+    {
+      "conversations": [
+        {
+          "from": "user",
+          "value": "What was the cause of the Bobcat Fire in 2020 in California?"
+        },
+        {
+          "from": "gpt",
+          "value": "The Bobcat Fire in 2020 in California was caused by recreation and ceremony activities."
+        }
+      ]
+    },
+    {
+      "conversations": [
+        {
+          "from": "user",
+          "value": "How large was the Pine Gulch Fire?"
+        },
+        {
+          "from": "gpt",
+          "value": "The Pine Gulch Fire burned approximately 139,007 acres."
+        }
+      ]
+    },
+    {
+      "conversations": [
+        {
+          "from": "user",
+          "value": "In which county did the Creek Fire occur?"
+        },
+        {
+          "from": "gpt",
+          "value": "The Creek Fire occurred in Fresno County."
+        }
+      ]
+    }
+  ]

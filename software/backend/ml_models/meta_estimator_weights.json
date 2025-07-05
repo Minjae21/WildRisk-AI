@@ -1,0 +1,25 @@
+{
+    "aggregate_comm_coun_rf&nn_weights": {
+        "community_level": {
+            "neural_net_weight": 0.40000000000000013,
+            "random_forest_weight": 0.5999999999999999
+        },
+        "county_level": {
+            "neural_net_weight": 0.25000000000000006,
+            "random_forest_weight": 0.75
+        }
+    },
+    "aggregation_weights_for_all_models": {
+        "community_weight": 0.3385808602581148,
+        "county_weight": 0.3475513825586124,
+        "state_weight": 0.31386775718327287
+    },
+    "metadata": {
+        "rmse_values": {
+            "community": 0.2538985321623281,
+            "county": 0.24734524951370654,
+            "state": 0.2738898197421314
+        },
+        "timestamp": "2025-05-08T06:05:42.564716"
+    }
+}
